@@ -1,3 +1,7 @@
+# EATXT: [Project Name]
+
+**[Please refer to our User Manual for detailed instructions](User_Manual.pdf)**
+
 # User Manual of EATXT
 
 ## Preface
