@@ -7,7 +7,7 @@ In this folder, we provide EATXT in the form of source code (including its gramm
 
 ## Prerequisites
 
-1.	You must have installed Eclipse and Java on your computer, **with Java version no less than 17**.
+1.	You must have installed Eclipse and Java on your computer, **with Java version no less than 11**.
 
 2.	EMF is installed or You use the Eclipse Modeling Tools.
 
@@ -55,7 +55,9 @@ In this folder, we provide EATXT in the form of source code (including its gramm
 	
 	b. Right click on the `.mwe2` file and choose `Run As` -> `MWE2 workflow` from the context menu. Because Eclipse may still display a few errors at this time, you may be asked if you want to continue. Please click “Proceed”. 
 	
-	**Then all the errors will be disappeared.**
+	**(If these Java projects are using Java 11 or above in your eclipse, then you can execute this step successfully and all the errors will disappear after this step. **
+	**Otherwise you may not be able to execute this step.**
+	**So, please check the Build Path of each project one by one to make sure they are using Java 11 or above.)**
 	
 	(Once you have completed the above steps, now the editor can be generated.)
 	
