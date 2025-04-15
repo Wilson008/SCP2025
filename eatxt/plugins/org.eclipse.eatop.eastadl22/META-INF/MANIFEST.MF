@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Require-Bundle: org.eclipse.core.runtime,org.eclipse.emf.ecore;visibil
- ity:=reexport,org.eclipse.eatop.common;visibility:=reexport,org.eclipse.sphinx.emf.validation
+ ity:=reexport,org.eclipse.eatop.common;visibility:=reexport,org.eclipse.eatop.serialization;visibility:=reexport,org.eclipse.sphinx.emf.validation
  ;visibility:=reexport,org.eclipse.emf.ecore.xmi;visibility:=reexport,
  org.eclipse.eatop.geastadl;visibility:=reexport,org.eclipse.sphinx.emf.se
  rialization;visibility:=reexport
