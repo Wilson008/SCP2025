@@ -64,8 +64,12 @@ In this folder, we provide EATXT in the form of source code (including its gramm
 	**So, please check the Build Path of each project one by one to make sure they are using Java 11 or above.)**
 	
 	(Once you have completed the above steps, now the editor can be generated.)
-	
-5. Use the EAText editor.
+
+# Important reminder:
+
+If you still get errors after completing the above steps, this is usually due to missing dependencies, and you can look for possible explanations and solutions in the Section "Common Problems" of User_Manual.pdf.
+
+# Use the EAText editor.
 
 Here, we will start the EATXT editor in runtime mode. The steps are as follows:
 
