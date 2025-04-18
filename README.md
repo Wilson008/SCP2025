@@ -13,7 +13,7 @@ In this folder, we provide EATXT in the form of source code (including its gramm
 
 1.	You must have installed Eclipse and Java on your computer, **with Java version no less than 11**.
 
-2.	EMF is installed or You use the Eclipse Modeling Tools.
+2.	EMF is installed or You use the Eclipse Modeling Tools (EATXT projects have been tested on the following versions of Eclipse Modeling Tools:21-06, 22-03, 22-06, 23-03, 23-06).
 
 3.	You must have installed Xtext for your Eclipse (You can simply install it via Eclipse Marketplace).
 
